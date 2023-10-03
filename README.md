@@ -1,4 +1,4 @@
-# Hi there, I'm Safin! 👋
+# Hi there, I'm Safrin! 👋
 
 I'm a passionate and aspiring Data Analyst with a strong foundation in data analysis, visualization, and machine learning. I love transforming raw data into meaningful insights. Here's a glimpse of my skills and projects:
 
@@ -20,6 +20,6 @@ I'm a passionate and aspiring Data Analyst with a strong foundation in data anal
 ## Let's Connect!
 - 📫 Email: safrin2633@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/safrins)
-- 🌐 Portfolio: [Portfolio Website](https://www.SafrinDataInsights.github.io)
+- 🌐 Portfolio: [Portfolio Website](https://safrin03.github.io/SafrinDataInsights.github.io/)
 
 Feel free to explore my repositories and reach out for collaboration or discussions related to data analysis and visualization. Happy analyzing! 🚀
