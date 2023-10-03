@@ -14,8 +14,13 @@ I'm a passionate and aspiring Data Analyst with a strong foundation in data anal
 - **Churn Prediction Model**: Developed a predictive model using Python and Scikit-learn to analyze customer churn patterns.
   [Link to Project](https://github.com/yourusername/churn-prediction)
 
-- **Sales Analysis Dashboard**: Created an interactive dashboard with Power BI to visualize sales trends and customer behavior.
+- **Sales Analysis Dashboard**: Created an interactive dashboard with Power BI to visualize sales insights of Amazon Products.
   [Link to Project](https://github.com/yourusername/sales-analysis-dashboard)
+
+## Certificates
+- **IBM Data Analyst Professional Certificate**: Completed a comprehensive program covering data analysis, data visualization, and data science using Python.
+  [Credential Verification](https://coursera.org/share/3a2a4f649391950de5ce6ccf53b38ecd)
+
 
 ## Let's Connect!
 - 📫 Email: safrin2633@gmail.com
