@@ -34,6 +34,7 @@ I'm a passionate and aspiring Data Analyst with a strong foundation in data anal
 - 📫 Email: safrin2633@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/safrin-s)
 - 🌐 Portfolio: [Portfolio Website](https://safrin03.github.io/SafrinDataInsights.github.io/)
+- 🎓 Coursera : [Coursera Profile](https://www.coursera.org/user/43a014dafec3ac6462ad5ac82282ccb2)
 
 
 Feel free to explore my repositories and reach out for collaboration or discussions related to data analysis and visualization. Happy analyzing! 🚀
