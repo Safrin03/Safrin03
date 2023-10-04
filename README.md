@@ -23,7 +23,7 @@ I'm a passionate and aspiring Data Analyst with a strong foundation in data anal
   [Link to Project](https://github.com/yourusername/churn-prediction)
 
 - **Sales Analysis Dashboard**: Created an interactive dashboard with Power BI to visualize sales insights of Amazon Products.
-  [Link to Project](https://github.com/yourusername/sales-analysis-dashboard)
+  [Link to Project](https://github.com/Safrin03/Amazon-Sales-Power-BI-Dashboard)
 
 ## Certificates
 - **IBM Data Analyst Professional Certificate**: Completed a comprehensive program covering data analysis, data visualization, and data science using Python.
