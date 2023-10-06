@@ -26,15 +26,20 @@ I'm a passionate and aspiring Data Analyst with a strong foundation in data anal
   [Link to Project](https://github.com/Safrin03/Amazon-Sales-Power-BI-Dashboard)
 
 ## Certificates
-- **IBM Data Analyst Professional Certificate**: Completed a comprehensive program covering data analysis, data visualization, and data science using Python.
-  [Credential Verification](https://coursera.org/share/3a2a4f649391950de5ce6ccf53b38ecd)
+- <img src="https://images.credly.com/size/340x340/images/462503e9-d76e-47ce-b82e-1d7df909ba70/Professional_Certificate_-_Data_Analyst.png" align="left" width="80"/>
 
+  **IBM Data Analyst Professional Certificate by IBM on Coursera :** \
+Completed a comprehensive program covering data analysis, data visualization, and data science using Python.\
+[Credential Verification](https://coursera.org/share/3a2a4f649391950de5ce6ccf53b38ecd)
+
+<br>
 
 ## Let's Connect!
 - 📫 Email: safrin2633@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/safrin-s)
 - 🌐 Portfolio: [Portfolio Website](https://safrin03.github.io/SafrinDataInsights.github.io/)
-- 🎓 Coursera : [Coursera Profile](https://www.coursera.org/user/43a014dafec3ac6462ad5ac82282ccb2)
+- 🎓 Coursera: [Coursera Profile](https://www.coursera.org/user/43a014dafec3ac6462ad5ac82282ccb2)
+
 
 
 Feel free to explore my repositories and reach out for collaboration or discussions related to data analysis and visualization. Happy analyzing! 🚀
