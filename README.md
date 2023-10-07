@@ -35,7 +35,6 @@ Completed a comprehensive program covering data analysis, data visualization, an
 ## Let's Connect!
 - 📫 Email: safrin2633@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/safrin-s)
-- 🌐 Portfolio: [Portfolio Website](https://safrin03.github.io/SafrinDataInsights.github.io/)
 - 🎓 Coursera: [Coursera Profile](https://www.coursera.org/user/43a014dafec3ac6462ad5ac82282ccb2)
 
 
