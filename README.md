@@ -17,13 +17,19 @@ I'm a passionate and aspiring Data Analyst with a strong foundation in data anal
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safrin03&show_icons=true&locale=en&layout=compact" alt="safrin03" /></p>
 
 ## Projects
-- **Churn Prediction Model**: Developed a predictive model using Python and Scikit-learn to analyze customer churn patterns.
+- **Churn Prediction Model :** Developed a predictive model using Python and Scikit-learn to analyze customer churn patterns.
   [Link to Project](https://github.com/Safrin03/Customer-Churn-Prediction)
 
-- **Sentiment Analysis for Customer Reviews**: Developed a sentiment analysis model using Machine learning and NLP techniques to analyze customer reviews
+- **Fraud Detection and Prevention :** Implemented credit card fraud detection for real world dataset using Machine learning models for customer transactions. Proposed preventive measures for future fraud prevention.
+  [Link to Project](https://github.com/Safrin03/Fraud-detection-machine-learning)
+
+- **Customer Churn Analysis Dashboard :** Created an interactive Bank Customer Churn Analysis Dashboard using Power BI, analyzing a comprehensive real world dataset of customers.
+  [Link to Project](https://github.com/Safrin03/Customer-Churn-Analysis-Dashboard)
+
+- **Sentiment Analysis for Customer Reviews :** Developed a sentiment analysis model using Machine learning and NLP techniques to analyze customer reviews.
   [Link to Project](https://github.com/Safrin03/Sentiment-Analysis-Amazon-Alexa-Reviews)
 
-- **Sales Analysis Dashboard**: Created an interactive dashboard with Power BI to visualize sales insights of Amazon Products.
+- **Sales Analysis Dashboard :** Created an interactive dashboard with Power BI to visualize sales insights of Amazon Products.
   [Link to Project](https://github.com/Safrin03/Amazon-Sales-Power-BI-Dashboard)
 
 
