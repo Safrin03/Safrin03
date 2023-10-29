@@ -39,9 +39,7 @@ I'm a passionate and aspiring Data Analyst with a strong foundation in data anal
   **IBM Data Analyst Professional Certificate by IBM on Coursera :** \
 Completed a comprehensive program covering data analysis, data visualization, and data science using Python.\
 [Credential Verification](https://coursera.org/share/3a2a4f649391950de5ce6ccf53b38ecd)
-
-<br>
-
+<br>  </br>
 ## Let's Connect!
 - 📫 Email: safrin2633@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/safrin-s)
