@@ -20,8 +20,12 @@ I'm a passionate and aspiring Data Analyst with a strong foundation in data anal
 - **Churn Prediction Model**: Developed a predictive model using Python and Scikit-learn to analyze customer churn patterns.
   [Link to Project](https://github.com/Safrin03/Customer-Churn-Prediction)
 
+- **Sentiment Analysis for Customer Reviews**: Developed a sentiment analysis model using Machine learning and NLP techniques to analyze customer reviews
+  [Link to Project](https://github.com/Safrin03/Sentiment-Analysis-Amazon-Alexa-Reviews)
+
 - **Sales Analysis Dashboard**: Created an interactive dashboard with Power BI to visualize sales insights of Amazon Products.
   [Link to Project](https://github.com/Safrin03/Amazon-Sales-Power-BI-Dashboard)
+
 
 ## Certificates
 - <img src="https://images.credly.com/size/340x340/images/462503e9-d76e-47ce-b82e-1d7df909ba70/Professional_Certificate_-_Data_Analyst.png" align="left" width="80"/>
