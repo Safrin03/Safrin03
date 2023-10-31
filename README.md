@@ -33,13 +33,15 @@ I'm a passionate and aspiring Data Analyst with a strong foundation in data anal
   [Link to Project](https://github.com/Safrin03/Amazon-Sales-Power-BI-Dashboard)
 
 
-## Certificates
+## Courseworks
 - <img src="https://images.credly.com/size/340x340/images/462503e9-d76e-47ce-b82e-1d7df909ba70/Professional_Certificate_-_Data_Analyst.png" align="left" width="80"/>
 
   **[IBM Data Analyst Professional Certificate by IBM on Coursera](https://github.com/Safrin03/Coursera-IBM_Data_Analyst_Professional_Certificate) :** \
 Completed a comprehensive program covering data analysis, data visualization, and data science using Python.\
 [Credential Verification](https://coursera.org/share/3a2a4f649391950de5ce6ccf53b38ecd)
 <br>  </br>
+
+- **[PwC Switzerland Power BI Job Simulation on Forage](https://drive.google.com/file/d/1alUt3yxzyQZUUbbIF5GVDnh14iB9oNEW/view?usp=sharing)**
 ## Let's Connect!
 - 📫 Email: safrin2633@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/safrin-s)
