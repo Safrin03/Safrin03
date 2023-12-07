@@ -44,6 +44,7 @@ Completed a comprehensive program covering data analysis, data visualization, an
 - **[PwC Switzerland Power BI Job Simulation on Forage](https://drive.google.com/file/d/1alUt3yxzyQZUUbbIF5GVDnh14iB9oNEW/view?usp=sharing)**
 ## Let's Connect!
 - 📫 Email: safrin2633@gmail.com
+- 💼 Portfolio : [Project Portfolio](https://www.datascienceportfol.io/SafrinDataInsights)
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/safrin-s)
 - 🎓 Coursera: [Coursera Profile](https://www.coursera.org/user/43a014dafec3ac6462ad5ac82282ccb2)
 - 📊 Kaggle : [Kaggle Profile](https://www.kaggle.com/safrin03)
