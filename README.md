@@ -16,6 +16,13 @@ I'm a passionate and aspiring Data Analyst with a strong foundation in data anal
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safrin03&show_icons=true&locale=en&layout=compact" alt="safrin03" /></p>
 
+## My Recent Open Source Works:
+🚀 **ProsperaLima: Real-world Data Science Impact**
+
+Contributed significantly to a real-world data science and analytics project focused on the Economic Analysis of Lima Metropolitan Area. Led the exploration of diverse datasets, extracting actionable insights using Python, Pandas, and advanced visualization tools like Matplotlib, Seaborn, and Plotly. As a contributor, played a pivotal role in the creation of an interactive Streamlit dashboard, providing stakeholders with a comprehensive view of Lima's economic landscape. This project not only honed my data science skills but also contributed valuable insights to inform decision-making for the city's development.
+
+Explore the interactive dashboard [here](https://prosperalima-chapter-project-omdena.streamlit.app/).
+
 ## Projects
 - **Churn Prediction Model :** Developed a predictive model using Python and Scikit-learn to analyze customer churn patterns.
   [Link to Project](https://github.com/Safrin03/Customer-Churn-Prediction)
